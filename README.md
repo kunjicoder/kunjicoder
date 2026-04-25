@@ -79,24 +79,3 @@ Bachelor of Engineering in Computer Science
 
 ---
 
-## Currently Learning / Planning To Learn
-
-- Intermediate SQL
-  - Window functions
-  - Subqueries
-  - More advanced query patterns
-
-- AWS
-
-- Snowflake
-
----
-
-## Areas of Interest
-
-```text
-Data Science
-Data Engineering
-Machine Learning
-Artificial Intelligence
-Business Analytics
