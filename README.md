@@ -15,7 +15,7 @@ I have experience with data preparation, validation, dashboards, sales analytics
 - 📊 Interested in **Data Science, Data Engineering, ML, AI, and Business Analytics**
 - 💼 Experience as a **Data Analyst Intern at MSD GCC**
 - 🌱 Currently improving my skills in **SQL**
-- ☁️ Planning to learn **AWS** and **Snowflake**
+- ☁️ Learning **AWS** and **Snowflake**
 
 ---
 
