@@ -12,10 +12,10 @@ I have experience with data preparation, validation, dashboards, sales analytics
 
 - 🎓 B.E. Computer Science student at **BITS Pilani Dubai Campus**
 - 📍 Based in Dubai, UAE
-- 📊 Interested in **Data Science, Data Engineering, ML, AI, and Business Analytics**
+- 📊 Interested in **AI-Engineering,Data Science, Data Engineering**
 - 💼 Experience as a **Data Analyst Intern at MSD GCC**
-- 🌱 Currently improving my skills in **SQL**
-- ☁️ Learning **AWS** and **Snowflake**
+- 🌱 Currently improving my skills in **AI Powered Systems and Data Pipelines**
+
 
 ---
 
